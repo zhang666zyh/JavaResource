@@ -1,1 +1,1 @@
-# Java的一些常用资源、源码以及文档等
+# Some common resources, source code and documentation of java
